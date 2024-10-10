@@ -1,0 +1,10 @@
+{
+  "name": "static-angular-language-server",
+  "version": "18.2.0",
+  "main": "node_modules/@angular/language-server/bin/ngserver",
+  "author": "Reyhan Kamil",
+  "description": "",
+  "dependencies": {
+    "@angular/language-server": "^18.2.0"
+  }
+}
