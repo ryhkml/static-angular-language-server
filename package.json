@@ -1,6 +1,6 @@
 {
   "name": "static-angular-language-server",
-  "version": "18.2.0",
+  "version": "18.2.0-rev1",
   "main": "node_modules/@angular/language-server/bin/ngserver",
   "author": "Google",
   "description": "",
