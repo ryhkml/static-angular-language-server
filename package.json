@@ -1,11 +1,11 @@
 {
-    "name": "static-angular-language-server",
-    "version": "18.2.0-rev2",
-    "main": "node_modules/.bin/ngserver",
-    "author": "Google",
-    "dependencies": {
-        "@angular/language-server": "^18.2.0",
-        "@angular/language-service": "^18.2.10",
-        "typescript": "^5.6.3"
-    }
+	"name": "static-angular-language-server",
+	"version": "18.2.12",
+	"main": "node_modules/.bin/ngserver",
+	"author": "Google",
+	"dependencies": {
+		"@angular/language-server": "^18.2.0",
+		"@angular/language-service": "^18.2.12",
+		"typescript": "^5.6.3"
+	}
 }
