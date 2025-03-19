@@ -1,3 +1,7 @@
 node_modules/.cache
 node_modules/**/LICENSE
 node_modules/**/*.md
+
+update.sh
+
+note.txt
