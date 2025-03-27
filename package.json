@@ -5,7 +5,7 @@
 	"author": "Google",
 	"dependencies": {
 		"@angular/language-server": "^19.2.1",
-		"@angular/language-service": "^19.2.2",
+		"@angular/language-service": "^19.2.4",
 		"typescript": "^5.8.2"
 	}
 }

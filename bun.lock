@@ -4,16 +4,16 @@
     "": {
       "name": "static-angular-language-server",
       "dependencies": {
-        "@angular/language-server": "^19.1.0",
-        "@angular/language-service": "^19.1.6",
-        "typescript": "^5.7.3",
+        "@angular/language-server": "^19.2.1",
+        "@angular/language-service": "^19.2.4",
+        "typescript": "^5.8.2",
       },
     },
   },
   "packages": {
     "@angular/language-server": ["@angular/language-server@19.2.1", "", { "dependencies": { "@angular/language-service": "19.2.0", "vscode-html-languageservice": "^4.2.5", "vscode-jsonrpc": "6.0.0", "vscode-languageserver": "7.0.0", "vscode-languageserver-textdocument": "^1.0.7", "vscode-uri": "3.0.7" }, "bin": { "ngserver": "bin/ngserver" } }, "sha512-1FU1oS9zp1Ee/05/G+SUi5aoYGImM25W9vlFlvdrmRa19YgBiBHBlpXrl1d3FRrr5608e1Z1YICr1P9kPCybVQ=="],
 
-    "@angular/language-service": ["@angular/language-service@19.2.2", "", {}, "sha512-QWGE0+T9W6Abu1JpEuEywM89PP0ROy/qLORxrNeEiQxObzTvseqvzjREIV7dEh9wfc4A58OvG3E88TZHt30TuA=="],
+    "@angular/language-service": ["@angular/language-service@19.2.4", "", {}, "sha512-bSLgjQYKyoUHUoD/SEQAmaQAFF2kVVFEBa8oXAFMjLov49CNybLuwgJI4Y11mjOnq6IONjnKLdKFvdrJhQn73g=="],
 
     "typescript": ["typescript@5.8.2", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-aJn6wq13/afZp/jT9QZmwEjDqqvSGp1VT5GVg+f/t6/oVyrgXM6BY1h9BRh/O5p3PlUPAe+WuiEZOmb/49RqoQ=="],
 
