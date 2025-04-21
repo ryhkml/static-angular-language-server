@@ -11,11 +11,11 @@
     },
   },
   "packages": {
-    "@angular/language-server": ["@angular/language-server@19.2.1", "", { "dependencies": { "@angular/language-service": "19.2.0", "vscode-html-languageservice": "^4.2.5", "vscode-jsonrpc": "6.0.0", "vscode-languageserver": "7.0.0", "vscode-languageserver-textdocument": "^1.0.7", "vscode-uri": "3.0.7" }, "bin": { "ngserver": "bin/ngserver" } }, "sha512-1FU1oS9zp1Ee/05/G+SUi5aoYGImM25W9vlFlvdrmRa19YgBiBHBlpXrl1d3FRrr5608e1Z1YICr1P9kPCybVQ=="],
+    "@angular/language-server": ["@angular/language-server@19.2.4", "", { "dependencies": { "@angular/language-service": "19.2.7", "vscode-html-languageservice": "^4.2.5", "vscode-jsonrpc": "6.0.0", "vscode-languageserver": "7.0.0", "vscode-languageserver-textdocument": "^1.0.7", "vscode-uri": "3.0.7" }, "bin": { "ngserver": "bin/ngserver" } }, "sha512-7tPqmnmu5yWYrwwzSw09L6btu1aWo8pvsVlEcHZmXYjXU+oaZzDRJFLvcXjYy6S6aHjzQYzfDohQhO4XJLgyVg=="],
 
-    "@angular/language-service": ["@angular/language-service@19.2.4", "", {}, "sha512-bSLgjQYKyoUHUoD/SEQAmaQAFF2kVVFEBa8oXAFMjLov49CNybLuwgJI4Y11mjOnq6IONjnKLdKFvdrJhQn73g=="],
+    "@angular/language-service": ["@angular/language-service@19.2.7", "", {}, "sha512-+/Pa6NWkunZyHVPi8rAQX+5MmFSE7aBgB9Qs0ZiCymgdJt8aFC/ry0O62k+9s2uxBd//GS1CZSIttwOxOZnZ7w=="],
 
-    "typescript": ["typescript@5.8.2", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-aJn6wq13/afZp/jT9QZmwEjDqqvSGp1VT5GVg+f/t6/oVyrgXM6BY1h9BRh/O5p3PlUPAe+WuiEZOmb/49RqoQ=="],
+    "typescript": ["typescript@5.8.3", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ=="],
 
     "vscode-html-languageservice": ["vscode-html-languageservice@4.2.5", "", { "dependencies": { "vscode-languageserver-textdocument": "^1.0.4", "vscode-languageserver-types": "^3.16.0", "vscode-nls": "^5.0.0", "vscode-uri": "^3.0.3" } }, "sha512-dbr10KHabB9EaK8lI0XZW7SqOsTfrNyT3Nuj0GoPi4LjGKUmMiLtsqzfedIzRTzqY+w0FiLdh0/kQrnQ0tLxrw=="],
 
@@ -32,8 +32,6 @@
     "vscode-nls": ["vscode-nls@5.2.0", "", {}, "sha512-RAaHx7B14ZU04EU31pT+rKz2/zSl7xMsfIZuo8pd+KZO6PXtQmpevpq3vxvWNcrGbdmhM/rr5Uw5Mz+NBfhVng=="],
 
     "vscode-uri": ["vscode-uri@3.0.7", "", {}, "sha512-eOpPHogvorZRobNqJGhapa0JdwaxpjVvyBp0QIUMRMSf8ZAlqOdEquKuRmw9Qwu0qXtJIWqFtMkmvJjUZmMjVA=="],
-
-    "@angular/language-server/@angular/language-service": ["@angular/language-service@19.2.0", "", {}, "sha512-45utEVXwCYE5vQSMX0ImBjgkcMQ8cqPN4xGHLqYiFEkp/hgbixejA4sMPP1Jn7YrjpfK4DmAaO5z5Hzp11zJ7A=="],
 
     "vscode-languageserver-protocol/vscode-languageserver-types": ["vscode-languageserver-types@3.16.0", "", {}, "sha512-k8luDIWJWyenLc5ToFQQMaSrqCHiLwyKPHKPQZ5zz21vM+vIVUSvsRpcbiECH4WR88K2XZqc4ScRcZ7nk/jbeA=="],
   }
